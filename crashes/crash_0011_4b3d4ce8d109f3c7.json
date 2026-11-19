@@ -1,0 +1,8 @@
+{
+  "signature": "4b3d4ce8d109f3c7",
+  "frame_hex": "0200",
+  "type_byte": 2,
+  "len_byte": 0,
+  "registers": {},
+  "output": "Timer with period zero, disabling\n[BOOT] Verifying application image...\n[BOOT] Signature OK, jumping to application\n[APP] Ready\n[APP] OFFSET SET count=000000ff\n"
+}

@@ -1,0 +1,19 @@
+{
+  "signature": "6730ef01ed35c97a",
+  "frame_hex": "01ffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "type_byte": 1,
+  "len_byte": 255,
+  "registers": {
+    "R0": 10,
+    "R1": 17713,
+    "R2": 1073741824,
+    "R3": 1073790976,
+    "R12": 521744633,
+    "LR": 2863311530,
+    "PC": 2863311530,
+    "PSR": 0,
+    "CFSR": 1,
+    "HFSR": 1073741824
+  },
+  "output": "Timer with period zero, disabling\n[BOOT] Verifying application image...\n[BOOT] Signature OK, jumping to application\n[APP] Ready\n[APP] ECHO: \u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\u00aa\n[FAULT] HardFault\n[FAULT] R0=0000000a\n[FAULT] R1=00004531\n[FAULT] R2=40000000\n[FAULT] R3=4000c000\n[FAULT] R12=1f1930f9\n[FAULT] LR=aaaaaaaa\n[FAULT] PC=aaaaaaaa\n[FAULT] PSR=00000000\n[FAULT] CFSR=00000001\n[FAULT] HFSR=40000000\n[FAULT] HALT\n"
+}

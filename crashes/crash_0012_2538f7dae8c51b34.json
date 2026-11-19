@@ -1,0 +1,8 @@
+{
+  "signature": "2538f7dae8c51b34",
+  "frame_hex": "030410400000",
+  "type_byte": 3,
+  "len_byte": 4,
+  "registers": {},
+  "output": "Timer with period zero, disabling\n[BOOT] Verifying application image...\n[BOOT] Signature OK, jumping to application\n[APP] Ready\n[APP] READ_MEM @00004010 = 88c67b8a\n"
+}
