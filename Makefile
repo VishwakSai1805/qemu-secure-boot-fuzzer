@@ -8,7 +8,7 @@ B       := build
 
 COMMON_SRC := common/uart.c common/sha256.c
 BOOT_SRC   := bootloader/startup.c bootloader/main.c $(COMMON_SRC)
-APP_SRC    := app/startup.c app/main.c $(COMMON_SRC)
+APP_SRC    := app/startup.c app/main.c app/parser.c app/fault.c $(COMMON_SRC)
 
 .PHONY: all clean
 all: $(B)/flash.bin
